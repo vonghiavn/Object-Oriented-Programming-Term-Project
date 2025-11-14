@@ -1,0 +1,208 @@
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormAddNewEmployee.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormDepartment.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormEditEmployee.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormLogin.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormMain.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormUsers.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\LE QUAN\source\repos\QuanLySinhVien\obj\Debug\QuanLySinhVien.FormShowInfoEmployee.resources
+D:\Download\QuanLySinhVienTEST\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVienTEST\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVienTEST\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormAddNewEmployee.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormEditEmployee.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormShowInfoEmployee.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVienTEST\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormBilling.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormBilling.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditBilling.resources
+C:\Users\ACER\Downloads\QuanLySinhVienTEST(5)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTinhTienHocPhi.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormBilling.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditBilling.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTinhTienHocPhi.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+D:\Download\QuanLySinhVie(hom nay)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormCourse.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowTuition.resources
+D:\Download\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTuition.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowTuition.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormCourse.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTuition.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(moi vua sua)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowTuition.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormCourse.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTuition.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(binary)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe.config
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\bin\Debug\QuanLySinhVien.pdb
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowTuition.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormCourse.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormDepartment.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormLogin.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMain.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormMajor.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormTuition.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.FormUsers.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.exe
+D:\Download\QuanLySinhVien(binary chinh)\QuanLySinhVien(sua lan cuoi)\QuanLySinhVien(hom sau)\QuanLySinhVienTEST(1)\obj\Debug\QuanLySinhVien.pdb
+C:\Users\LENOVO\source\repos\QLSV\QLSV\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\LENOVO\source\repos\QLSV\QLSV\bin\Debug\QuanLySinhVien.exe
+C:\Users\LENOVO\source\repos\QLSV\QLSV\bin\Debug\QuanLySinhVien.pdb
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormAddNewMajor.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormAddNewStudent.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormShowTuition.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormCourse.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormDepartment.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormEditMajor.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormEditStudent.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormLogin.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormMain.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormMajor.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormShowInfoMajor.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormShowInfoStudent.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormTuition.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.FormUsers.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.exe
+C:\Users\LENOVO\source\repos\QLSV\QLSV\obj\Debug\QuanLySinhVien.pdb
