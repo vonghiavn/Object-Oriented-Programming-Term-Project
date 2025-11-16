@@ -25,7 +25,6 @@ namespace QuanLySinhVien
             LoadDepartmentComboBox();
             dtgvMajor.AutoGenerateColumns = false;
 
-            // Bind DataGridView với BindingSource
             dtgvMajor.DataSource = majorBindingSource;
 
             cboDepartment.SelectedIndexChanged += cboDepartment_SelectedIndexChanged;

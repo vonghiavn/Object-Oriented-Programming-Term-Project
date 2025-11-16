@@ -8,9 +8,6 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-using System.Xml.Linq;
 
 namespace QuanLySinhVien
 {
@@ -29,7 +26,10 @@ namespace QuanLySinhVien
         private void FormAddNewMajor_Load(object sender, EventArgs e)
         {
             if (Const.NewMajor == null)
-                Const.NewMajor = new Major();
+            {
+                MajorFactory factory = MajorFactory.GetInstance();
+                Const.NewMajor = factory.Create("", "", selectedDepartment);
+            }
 
             dtgvCourse.AutoGenerateColumns = false;
             dtgvMajorCourse.AutoGenerateColumns = false;
@@ -43,6 +43,7 @@ namespace QuanLySinhVien
             dtgvCourse.DataSource = ListCourse.GetInstance().ListCourses;
             dtgvCourse.Refresh();
         }
+
         void LoadListMajorCourses()
         {
             dtgvMajorCourse.DataSource = null;
@@ -58,9 +59,10 @@ namespace QuanLySinhVien
             if (index < 0 || index >= ListCourse.GetInstance().ListCourses.Count)
                 return;
 
-            txbCourseName.Text = ListCourse.GetInstance().ListCourses[index].Name;
-            txbCourseID.Text = ListCourse.GetInstance().ListCourses[index].CourseID;
-            txbCourseCredits.Text = ListCourse.GetInstance().ListCourses[index].CourseCredits.ToString();
+            Course selected = ListCourse.GetInstance().ListCourses[index];
+            txbCourseName.Text = selected.Name;
+            txbCourseID.Text = selected.CourseID;
+            txbCourseCredits.Text = selected.CourseCredits.ToString();
         }
 
         private void dtgvMajorCourse_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -85,11 +87,14 @@ namespace QuanLySinhVien
             }
 
             if (Const.NewMajor == null)
-                Const.NewMajor = new Major();
+            {
+                MajorFactory factory = MajorFactory.GetInstance();
+                Const.NewMajor = factory.Create("", "", selectedDepartment);
+            }
 
             Course selected = ListCourse.GetInstance().ListCourses[index];
 
-            // Kiểm tra trùng CourseID trong Const.NewMajor
+            // Kiểm tra trùng CourseID
             foreach (Course c in Const.NewMajor.Courses)
             {
                 if (c.CourseID == selected.CourseID)
@@ -100,7 +105,7 @@ namespace QuanLySinhVien
                 }
             }
 
-            // Chỉ thêm vào Const.NewMajor.Courses, không thêm liên kết ngược
+            // Thêm vào danh sách tạm
             Const.NewMajor.Courses.Add(selected);
 
             LoadListMajorCourses();
@@ -141,7 +146,6 @@ namespace QuanLySinhVien
 
             if (result == DialogResult.Yes)
             {
-                // Chỉ xóa khỏi Const.NewMajor.Courses
                 Const.NewMajor.Courses.RemoveAt(indexMajorCourse);
 
                 indexMajorCourse = -1;
@@ -157,55 +161,56 @@ namespace QuanLySinhVien
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            string majorID = txbMajorID.Text.Trim();
-            string majorName = txbMajorName.Text.Trim();
-            Department dept = selectedDepartment;
-
-            // Validation...
-            if (string.IsNullOrEmpty(majorID) || string.IsNullOrEmpty(majorName))
+            try
             {
-                MessageBox.Show("Vui lòng nhập đầy đủ thông tin ngành!", "Thông báo",
-                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
-                return;
-            }
+                string majorID = txbMajorID.Text.Trim();
+                string majorName = txbMajorName.Text.Trim();
 
-            // Kiểm tra trùng
-            foreach (Major m in dept.Majors)
-            {
-                if (m.MajorID == majorID)
+                if (string.IsNullOrEmpty(majorID) || string.IsNullOrEmpty(majorName))
                 {
-                    MessageBox.Show("Mã ngành này đã tồn tại trong khoa!", "Thông báo",
+                    MessageBox.Show("Vui lòng nhập đầy đủ thông tin ngành!", "Thông báo",
                         MessageBoxButtons.OK, MessageBoxIcon.Warning);
                     return;
                 }
-            }
 
-            try
-            {
-                Major newMajor = new Major(majorID, majorName, dept);
-
-                if (Const.NewMajor != null && Const.NewMajor.Courses.Count > 0)
+                // Kiểm tra trùng mã ngành
+                foreach (Major m in selectedDepartment.Majors)
                 {
-                    newMajor.Courses = new List<Course>();
-
-                    foreach (Course c in Const.NewMajor.Courses)
+                    if (m.MajorID == majorID)
                     {
-                        newMajor.Courses.Add(c);
-
-                        if (!c.Majors.Contains(newMajor))
-                        {
-                            c.Majors.Add(newMajor);
-                        }
+                        MessageBox.Show("Mã ngành này đã tồn tại trong khoa!", "Thông báo",
+                            MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        return;
                     }
                 }
 
-                dept.Majors.Add(newMajor);
+                MajorFactory factory = MajorFactory.GetInstance();
+                Major newMajor;
+
+                if (Const.NewMajor != null && Const.NewMajor.Courses.Count > 0)
+                {
+                    // Tạo Major với danh sách Course
+                    newMajor = factory.CreateWithCourses(
+                        majorID,
+                        majorName,
+                        selectedDepartment,
+                        Const.NewMajor.Courses
+                    );
+                }
+                else
+                {
+                    // Tạo Major không có Course
+                    newMajor = factory.Create(majorID, majorName, selectedDepartment);
+                }
+
+                // Thêm vào Department
+                selectedDepartment.Majors.Add(newMajor);
+
+                // Cập nhật Const.NewMajor
                 Const.NewMajor = newMajor;
 
+                // Lưu dữ liệu
                 DataStorage.SaveData();
-
-                // Đợi DataStorage hoàn tất
-                System.Threading.Thread.Sleep(100);
 
                 MessageBox.Show("Đã lưu ngành mới thành công!", "Thông báo",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -221,10 +226,18 @@ namespace QuanLySinhVien
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            DialogResult result = MessageBox.Show("Bạn có muốn hủy thao tác và thoát không?", "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            DialogResult result = MessageBox.Show(
+                "Bạn có muốn hủy thao tác và thoát không?",
+                "Thoát",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Warning);
 
             if (result == DialogResult.Yes)
+            {
+                // Reset Const.NewMajor khi cancel
+                Const.NewMajor = null;
                 this.Close();
+            }
         }
     }
 }

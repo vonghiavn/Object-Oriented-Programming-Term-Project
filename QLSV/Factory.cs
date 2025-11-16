@@ -50,6 +50,25 @@ namespace QuanLySinhVien
                 throw new Exception($"Lỗi khi tạo Student: {ex.Message}");
             }
         }
+
+        public Student CreateBasic(string name, string studentID, Department department, Major major)
+        {
+            return new Student(
+                name: name,
+                birthDay: DateTime.Now,
+                sex: "Nam",
+                studentID: studentID,
+                department: department,
+                position: "Sinh viên",
+                status: "Đang học",
+                address: "",
+                email: "",
+                phoneNumber: "",
+                enrollDate: DateTime.Now,
+                enrollID: DateTime.Now.Year.ToString(),
+                major: major
+            );
+        }
     }
 
     public class DepartmentFactory : IEntityFactory<Department>

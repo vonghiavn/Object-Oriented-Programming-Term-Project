@@ -93,7 +93,7 @@ namespace QuanLySinhVien
 
 
             // Thêm Department mới
-            Department newDept = new Department(departmentName);
+            Department newDept = DepartmentFactory.GetInstance().Create(departmentName);
             ListDepartment.GetInstance().ListDepartments.Add(newDept);
             DataStorage.SaveData();
 
