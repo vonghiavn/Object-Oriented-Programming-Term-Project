@@ -23,20 +23,22 @@ namespace QuanLySinhVien
 
         private ListDepartment()
         {
-            ListDepartments = new List<Department>
-            {
-                new Department("Khoa CNTT kinh doanh"),
-                new Department("Khoa Tài chính"),
-                new Department("Khoa Quản trị"),
-                new Department("Khoa Kinh doanh quốc tế"),
-                new Department("Khoa Ngân hàng")
-            };
+            ListDepartments = new List<Department>();
+
+            DepartmentFactory factory = DepartmentFactory.GetInstance();
+
+            ListDepartments.Add(factory.Create("Khoa CNTT kinh doanh"));
+            ListDepartments.Add(factory.Create("Khoa Tài chính"));
+            ListDepartments.Add(factory.Create("Khoa Quản trị"));
+            ListDepartments.Add(factory.Create("Khoa Kinh doanh quốc tế"));
+            ListDepartments.Add(factory.Create("Khoa Ngân hàng"));
         }
 
         public void GetObjectData(SerializationInfo info, StreamingContext context)
         {
             info.AddValue("ListDepartments", ListDepartments);
         }
+
         protected ListDepartment(SerializationInfo info, StreamingContext context)
         {
             ListDepartments = (List<Department>)info.GetValue("ListDepartments", typeof(List<Department>));

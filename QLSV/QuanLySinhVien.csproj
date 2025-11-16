@@ -51,6 +51,7 @@
     <Compile Include="Credits.cs" />
     <Compile Include="DataStorage.cs" />
     <Compile Include="Department.cs" />
+    <Compile Include="Factory.cs" />
     <Compile Include="FormAddNewMajor.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -43,7 +43,6 @@ namespace QuanLySinhVien
 
         private void RefreshAllMajorForms()
         {
-            // Duyệt ngược để tránh lỗi khi form bị đóng
             for (int i = openMajorForms.Count - 1; i >= 0; i--)
             {
                 if (!openMajorForms[i].IsDisposed)
